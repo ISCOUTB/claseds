@@ -1,6 +1,6 @@
 # Claseds
 
-Claseds es una aplicación móvil multiplataforma desarrollada con Flutter. El proyecto incluye soporte para Android, iOS, web y escritorios (macOS, Linux, Windows) y sigue la estructura estándar de proyectos Flutter.
+Claseds es una aplicación móvil multiplataforma desarrollada con Flutter como ejemplo en la clase. El proyecto incluye soporte para Android, iOS, web y escritorios (macOS, Linux, Windows) y sigue la estructura estándar de proyectos Flutter.
 
 ## Resumen
 
@@ -91,5 +91,3 @@ flutter build web
 Si necesitas ayuda con este repositorio, abre un issue o contacta a los mantenedores.
 
 ---
-
-Este archivo fue actualizado automáticamente para ofrecer una guía inicial en español; ajústalo según las necesidades del proyecto.
